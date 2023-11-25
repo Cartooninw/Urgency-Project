@@ -1,0 +1,7 @@
+Username	Password	Cash
+E	E	5600.0
+R	R	4100.0
+RR	E	0
+RRR	E	0
+T	T	5000.0
+G	G	60000.0
